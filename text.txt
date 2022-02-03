@@ -1,3 +1,4 @@
 Hello Rune, hvordan gaar det?
 add something, testing 
 add something, ADDING SOmething else
+testing for signatures
